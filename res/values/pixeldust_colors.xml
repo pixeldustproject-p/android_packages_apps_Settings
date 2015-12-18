@@ -27,4 +27,10 @@
     <color name="accent_picker_white_accent">@android:color/white</color>
     <color name="accent_picker_dark_accent">@android:color/black</color>
 
+    <!-- Expanded desktop -->
+    <drawable name="expanded_item_bg_activated">#ffEEEEEE</drawable>
+    <drawable name="expanded_item_bg">@android:color/background_light</drawable>
+    <color name="expanded_button_color_normal">#4CAF50</color>
+    <color name="expanded_button_color_close">#F44336</color>
+
 </resources>
