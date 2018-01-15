@@ -236,4 +236,7 @@
     <string name="disable_fonts_installed_title">Die Schriftartenauswahl ist nicht verfügbar, um Konflikte mit Substratum zu vermeiden. Substratum muss deinstalliert sein, um die Schriftartenauswahl verwenden zu können.</string>
     <string name="font_picker_progress">Neue Schritart wird aktiviert\u2026</string>
 
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Lautstärke für Klingelton &amp; Benachrichtigungston verknüpfen</string>
+
 </resources>
