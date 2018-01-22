@@ -207,6 +207,10 @@
 
     <!-- Ambient display battery percentage --> 
     <string name="ambient_battery_percent_title">Battery level on bottom</string> 
-    <string name="ambient_battery_percent_summary">Enable to show battery percent while dozing</string> 
+    <string name="ambient_battery_percent_summary">Enable to show battery percent while dozing</string>
+
+    <!-- Fingerprint swipe sideways -->
+    <string name="fp_swipe_to_dismiss_notifications_title">Swipe fingerprint to dismiss notifications</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor.</string>
 
 </resources>
