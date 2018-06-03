@@ -218,5 +218,6 @@
 
   <!-- Ambient category -->
   <string name="ambient_display_category">Inaktivitätsdisplay</string>
+  <string name="custom_ambient_display_summary">Neue Benachrichtigungen</string>
 
 </resources>

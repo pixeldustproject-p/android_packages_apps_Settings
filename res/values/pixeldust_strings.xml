@@ -238,6 +238,7 @@
     <string name="menu_hide_substratum">Hide overlays</string>
 
     <!-- Ambient category -->
-    <string name="ambient_display_category">Ambient options</string>
+    <string name="ambient_display_category">Ambient display</string>
+    <string name="custom_ambient_display_summary">New notifications</string>
 
 </resources>
