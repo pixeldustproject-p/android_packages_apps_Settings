@@ -23,6 +23,10 @@
     <string name="pd_version">Pixel Dust version</string>
     <string name="pd_version_default">Unknown</string>
 
+    <!-- OTA -->
+    <string name="pdupdate_settings_title">Pixel Dust updates</string>
+    <string name="pdupdate_settings_summary">Check for new version</string>
+
     <!-- Clang version -->
     <string name="clang_version">Clang</string>
     <string name="clang_version_default">Unknown</string>

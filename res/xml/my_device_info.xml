@@ -28,31 +28,42 @@
         android:layout="@layout/pixeldust_logo"
         settings:allowDividerAbove="true"/>
 
+    <!-- PixelDust OTA -->
+    <Preference
+        android:key="pd_updates"
+        android:order="1"
+        android:title="@string/pdupdate_settings_title"
+        android:summary="@string/pdupdate_settings_summary">
+        <intent android:action="android.intent.action.MAIN"
+           android:targetPackage="com.pixeldust.ota"
+           android:targetClass="com.pixeldust.ota.MainActivity" />
+    </Preference>
+
     <!-- PixelDust version -->
     <Preference
         android:key="pd_version"
-        android:order="1"
+        android:order="2"
         android:title="@string/pd_version"
         android:summary="@string/pd_version_default" />
 
     <!-- PixelDust build date -->
     <Preference
         android:key="pd_build_date"
-        android:order="2"
+        android:order="3"
         android:title="@string/pd_build_date"
         android:summary="@string/pd_build_date_default" />
 
     <!-- Changelog -->
     <Preference
         android:key="changelog"
-        android:order="3"
+        android:order="4"
         android:title="@string/changelog_title"
         android:summary="@string/changelog_summary"
         android:fragment="com.android.settings.deviceinfo.Changelog" />
 
     <com.android.settings.applications.LayoutPreference
         android:key="my_device_info_header"
-        android:order="4"
+        android:order="5"
         android:layout="@layout/settings_entity_header"
         android:selectable="false"
         settings:allowDividerAbove="true"/>
@@ -60,28 +71,28 @@
     <!-- Device name -->
     <com.android.settings.widget.ValidatedEditTextPreference
         android:key="device_name"
-        android:order="5"
+        android:order="6"
         android:title="@string/my_device_info_device_name_preference_title"
         android:summary="@string/summary_placeholder"/>
 
     <!-- Account name -->
     <Preference
         android:key="branded_account"
-        android:order="6"
+        android:order="7"
         android:title="@string/my_device_info_account_preference_title"
         android:summary="@string/summary_placeholder"/>
 
     <!-- Phone number -->
     <Preference
         android:key="phone_number"
-        android:order="7"
+        android:order="8"
         android:title="@string/status_number"
         android:summary="@string/summary_placeholder"
         android:selectable="false"/>
 
     <Preference
         android:key="emergency_info"
-        android:order="8"
+        android:order="9"
         android:title="@string/emergency_info_title"
         android:summary="@string/summary_placeholder"/>
 
@@ -96,7 +107,7 @@
     <!-- Regulatory labels -->
     <Preference
         android:key="regulatory_info"
-        android:order="9"
+        android:order="10"
         android:title="@string/regulatory_labels">
         <intent android:action="android.settings.SHOW_REGULATORY_INFO"/>
     </Preference>
@@ -112,7 +123,7 @@
     <!-- SIM status -->
     <Preference
         android:key="sim_status"
-        android:order="10"
+        android:order="11"
         android:title="@string/sim_status_title"
         settings:keywords="@string/keywords_sim_status"
         android:summary="@string/summary_placeholder"

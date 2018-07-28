@@ -23,9 +23,13 @@
   <string name="pd_version">Pixel Dust Version</string>
   <string name="pd_version_default">Unbekannt</string>
 
-  <!-- PixelDust build date-->
-  <string name="pd_build_date">Pixel Dust Erstellungsdatum</string>
-  <string name="pd_build_date_default">2017-08-01-0000</string>
+  <!-- OTA -->
+  <string name="pdupdate_settings_title">Pixel Dust Updates</string>
+  <string name="pdupdate_settings_summary">Nach neuer Version suchen</string>
+
+  <!-- Clang version -->
+  <string name="clang_version">Clang</string>
+  <string name="clang_version_default">Unbekannt</string>
 
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
