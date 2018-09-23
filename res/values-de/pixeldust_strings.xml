@@ -216,4 +216,7 @@
   <string name="menu_show_substratum">Overlays einblenden</string>
   <string name="menu_hide_substratum">Overlays ausblenden</string>
 
+  <!-- Ambient category -->
+  <string name="ambient_display_category">Inaktivitätsdisplay</string>
+
 </resources>
