@@ -61,12 +61,14 @@
         android:summary="@string/changelog_summary"
         android:fragment="com.android.settings.deviceinfo.Changelog" />
 
+    <!--
     <com.android.settings.applications.LayoutPreference
         android:key="my_device_info_header"
         android:order="5"
         android:layout="@layout/settings_entity_header"
         android:selectable="false"
         settings:allowDividerAbove="true"/>
+    -->
 
     <!-- Device name -->
     <com.android.settings.widget.ValidatedEditTextPreference
