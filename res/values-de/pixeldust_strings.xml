@@ -182,4 +182,12 @@
   <string name="full_gesture_mode_dt2s_title">Zweimal auf Navigationsleiste tippen für Ruhezustand</string>
   <string name="full_gesture_mode_dt2s_summary">Den leeren Bereich der Navigationsleiste doppelt antippen, um den den Bildschirm auszuschalten.</string>
 
+  <!-- Ambient Play -->
+  <string name="ambient_play_summary">Now Playing aktivieren</string>
+  <string name="ambient_play_lockscreen_title">Now Playing auf dem Sperrbildschirm anzeigen</string>
+  <string name="ambient_play_notifications_title">Benachrichtigungen</string>
+  <string name="ambient_play_switch_bar_on">Ein</string>
+  <string name="ambient_play_switch_bar_off">Aus</string>
+  <string name="ambient_play_help_text">Wenn Musik im Hintergrund gespielt wird, werden Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
+
 </resources>

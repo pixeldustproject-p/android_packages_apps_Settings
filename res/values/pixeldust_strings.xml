@@ -200,4 +200,13 @@
     <string name="full_gesture_mode_dt2s_title">Enable double tap to sleep</string>
     <string name="full_gesture_mode_dt2s_summary">Tap on an empty navbar space but not the home button to switch the screen off.</string>
 
+    <!-- Ambient Play -->
+    <string name="ambient_play_title" translatable="false">@*android:string/ambient_recognition_notification</string>
+    <string name="ambient_play_summary">Show nearby songs</string>
+    <string name="ambient_play_lockscreen_title">Show songs on lock screen</string>
+    <string name="ambient_play_notifications_title">Notifications</string>
+    <string name="ambient_play_switch_bar_on">On</string>
+    <string name="ambient_play_switch_bar_off">Off</string>
+    <string name="ambient_play_help_text">When music is playing nearby, you can see the song name and artist. Battery life and data usage may be affected if this is enabled.</string>
+
 </resources>
