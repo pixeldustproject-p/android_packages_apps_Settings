@@ -16,6 +16,8 @@
 
 package com.android.settings.core.gateway;
 
+import com.android.settings.applications.ExpandedDesktopPreferenceFragment;
+import com.android.settings.AmbientPlaySettings;
 import com.android.settings.DateTimeSettings;
 import com.android.settings.DeviceAdminSettings;
 import com.android.settings.DisplaySettings;
@@ -288,6 +290,8 @@ public class SettingsGateway {
             SmartPixels.class.getName(),
             StatusBarSettings.class.getName(),
             VolumeSettings.class.getName(),
+            AmbientPlaySettings.class.getName(),
+            ExpandedDesktopPreferenceFragment.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {

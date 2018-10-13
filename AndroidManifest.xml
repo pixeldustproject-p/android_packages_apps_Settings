@@ -3520,6 +3520,31 @@
             <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
                 android:value="com.pixeldust.settings.fragments.OmniJawsSettings" />
         </activity>
+
+        <!-- Ambient play activity. -->
+        <activity android:name="Settings$AmbientPlayActivity"
+                android:label="@string/ambient_play_cat"
+                android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.AmbientPlaySettings" />
+        </activity>
+
+        <!-- Expanded desktop activity. -->
+        <activity android:name="Settings$ExpandedDesktopActivity"
+                android:label="@string/expanded_desktop_pref_title"
+                android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.applications.ExpandedDesktopPreferenceFragment" />
+        </activity>
+
         <!-- This is the longest AndroidManifest.xml ever. -->
     </application>
 </manifest>
