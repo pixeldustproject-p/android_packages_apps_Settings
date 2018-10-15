@@ -205,4 +205,8 @@
     <!-- Weather parts -->
     <string name="weather_title">Weather</string>
 
+    <!-- Ambient display battery percentage --> 
+    <string name="ambient_battery_percent_title">Battery level on bottom</string> 
+    <string name="ambient_battery_percent_summary">Enable to show battery percent while dozing</string> 
+
 </resources>
