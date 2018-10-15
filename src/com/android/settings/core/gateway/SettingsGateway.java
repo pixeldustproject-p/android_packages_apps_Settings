@@ -153,6 +153,7 @@ import com.pixeldust.settings.fragments.RecentsSettings;
 import com.pixeldust.settings.fragments.SmartPixels;
 import com.pixeldust.settings.fragments.StatusBarSettings;
 import com.pixeldust.settings.fragments.VolumeSettings;
+import com.pixeldust.settings.fragments.PieSettings;
 
 public class SettingsGateway {
 
@@ -294,6 +295,7 @@ public class SettingsGateway {
             AmbientDisplaySettings.class.getName(),
             AmbientPlaySettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
+            PieSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {

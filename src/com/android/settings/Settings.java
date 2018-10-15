@@ -182,4 +182,6 @@ public class Settings extends SettingsActivity {
     public static class StatusBarSettingsActivity extends SettingsActivity { /* empty */ }
     public static class VolumeSettingsActivity extends SettingsActivity { /* empty */ }
     public static class OmniJawsSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class PieControlSettingsActivity extends SettingsActivity { /* empty */ }
+
 }
