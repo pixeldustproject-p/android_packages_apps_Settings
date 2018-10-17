@@ -123,4 +123,11 @@
   <string name="accent_picker_material_colors">Material Farbpalette</string>
   <string name="accent_picker_custom_colors">Benutzerdefiniert</string>
 
+  <!-- QS tile styles -->
+  <string name="qs_tile_style_title">Kachel-Stil in Schnelleinstellungen</string>
+  <string name="qstile_default">Standard (Pie)</string>
+  <string name="qstile_circle_trim">Kreis einfach umrandet (Pie)</string>
+  <string name="qstile_dual_tone_circle">Kreis doppelt umrandet (Pie)</string>
+  <string name="qstile_squircle_trim">Abgerundetes Quadrat (Pie)</string>
+
 </resources>
