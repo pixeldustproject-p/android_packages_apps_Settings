@@ -109,12 +109,44 @@
   <string name="changelog_summary">Seit dem letzten Update</string>
   <string name="changelog_error">Laden der Änderungshistorie fehlgeschlagen</string>
 
+  <!-- Smart Pixels -->
+  <string name="smart_pixels_settings_title">Smart Pixels</string>
+
+  <!-- Pixel Dust Settings -->
+  <string name="pd_preferences_animations_title">Animationen</string>
+  <string name="pd_preferences_buttons_title">Tasten</string>
+  <string name="pd_preferences_gestures_title">Gesten</string>
+  <string name="pd_preferences_lockscreen_title">Sperrbildschirm</string>
+  <string name="pd_preferences_misc_title">Sonstiges</string>
+  <string name="pd_preferences_navbar_title">Navigationsleiste</string>
+  <string name="pd_preferences_notifications_title">Benachrichtigungen</string>
+  <string name="pd_preferences_powermenu_title">An/Aus-Tasten Menü</string>
+  <string name="pd_preferences_quicksettings_title">Schnelleinstellungen</string>
+  <string name="pd_preferences_recents_title">Anwendungsverlauf</string>
+  <string name="pd_preferences_statusbar_title">Statusleiste</string>
+  <string name="pd_preferences_volume_title">Lautstärke-Taste konfigurieren</string>
+
+  <!-- Battery stats reset -->
+  <string name="battery_stats_reset">Statistiken zurücksetzen</string>
+  <string name="battery_stats_message">Der Akkuverlauf wird zurückgesetzt</string>
+
   <!-- Ambient Play -->
   <string name="ambient_play_cat">Now Playing</string>
   <string name="ambient_recognition_title">Now Playing aktivieren</string>
   <string name="ambient_recognition_summary">Musik, die im Hintergrund gespielt wird, wird erkannt und Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
   <string name="ambient_recognition_lockscreen_title">Now Playing zusätzlich anzeigen</string>
   <string name="ambient_recognition_lockscreen_summary">Auf dem Sperrbildschirm</string>
+  <string name="ambient_recognition_interval_summary_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf <xliff:g id="number">%d</xliff:g> Sekunden</string>
+  <string name="ambient_recognition_interval_summary_one_minute_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute <xliff:g id="number">%d</xliff:g> Sekunden</string>
+  <string name="ambient_recognition_interval_summary_one_minute">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute</string>
+  <string name="ambient_recognition_interval_summary_two_minutes">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 2 Minuten</string>
+  <string name="ambient_recognition_interval_title">Suchintervall</string>
+  <string name="ambient_recognition_interval_20sec">20 Sekunden</string>
+  <string name="ambient_recognition_interval_40sec">40 Sekunden</string>
+  <string name="ambient_recognition_interval_60sec">1 Minute</string>
+  <string name="ambient_recognition_interval_80sec">1 Minute 20 Sekunden</string>
+  <string name="ambient_recognition_interval_100sec">1 Minute 40 Sekunden</string>
+  <string name="ambient_recognition_interval_120sec">2 Minuten (Standard)</string>
 
   <!-- SystemUI theme -->
   <string name="systemui_theme_black">Schwarz</string>
@@ -136,5 +168,31 @@
   <string name="qstile_oreo_circle_trim">Kreis einfach umrandet (Oreo)</string>
   <string name="qstile_oreo_squircle_trim">Abgerundetes Quadrat (Oreo)</string>
   <string name="qstile_squircle_trim">Abgerundetes Quadrat (Pie)</string>
+
+  <!-- Expanded desktop -->
+  <string name="expanded_desktop_pref_title">Erweiterter Desktopmodus</string>
+  <string name="expanded_desktop_pref_summary">Den erweiterten Modus global oder per App konfigurieren</string>
+  <string name="expanded_hide_nothing">Nichts ausblenden</string>
+  <string name="expanded_hide_status">Statusleiste ausblenden</string>
+  <string name="expanded_hide_navigation">Navigationsleiste ausblenden</string>
+  <string name="expanded_hide_both">Beides verstecken</string>
+  <string name="expanded_nothing_to_show">Um eine benutzerdefinierte Per-App-Konfiguration für den erweiterten Modus hinzuzufügen, schalten Sie \"Für alle aktiviert\" auf aus</string>
+  <string name="expanded_desktop_state">Erweiterter Status</string>
+  <string name="expanded_enabled_for_all">Für alle aktiviert</string>
+  <string name="expanded_user_configurable">Vom Nutzer konfigurierbar</string>
+  <string name="expanded_desktop_style">Aussehen des erweiterten Desktopmodus</string>
+  <string name="expanded_desktop_style_description">Standardaussehen des erweiterten Desktopmodus wählen</string>
+  <string name="expanded_desktop_title">Optionen für den erweiterten Desktopmodus</string>
+
+  <!-- Weather parts -->
+  <string name="weather_title">Wetter</string>
+
+  <!-- Ambient display battery percentage --> 
+  <string name="ambient_battery_percent_title">Akkuladestand am unteren Rand anzeigen</string> 
+  <string name="ambient_battery_percent_summary">Akkuladestand als Prozentwert auf dem Inaktivitätsdisplay anzeigen</string>
+
+  <!-- Fingerprint swipe sideways -->
+  <string name="fp_swipe_to_dismiss_notifications_title">Benachr. durch seitliches Wischen schließen</string>
+  <string name="fp_swipe_to_dismiss_notifications_summary">Nach links oder rechts über den Fingerabdrucksensor wischen, um Benachrichtingen zu schließen.</string>
 
 </resources>
