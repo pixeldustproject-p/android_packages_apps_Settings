@@ -249,4 +249,8 @@
     to get started:\n\n- Setup Swipe up on Home button\n- Turn on Navigationbar Pulse\n- Try out Now Playing\n- Play around with our built-in theming options. You can choose the background colour from Light, Dark, Black, Shishu Nights, Chocolate, and there are also a number of accent colours available.</string>
     <string name="first_time_confirm_button">GOT IT</string>
 
+    <!-- Option defining the phone ringtone for slot1 on Muilti SIM device -->
+    <string name="ringtone1_title">Phone ringtone - SIM 1</string>
+    <string name="ringtone2_title">Phone ringtone - SIM 2</string>
+
 </resources>
