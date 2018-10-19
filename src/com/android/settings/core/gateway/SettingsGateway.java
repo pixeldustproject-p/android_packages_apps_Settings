@@ -17,6 +17,7 @@
 package com.android.settings.core.gateway;
 
 import com.android.settings.applications.ExpandedDesktopPreferenceFragment;
+import com.android.settings.display.AmbientDisplaySettings;
 import com.android.settings.AmbientPlaySettings;
 import com.android.settings.DateTimeSettings;
 import com.android.settings.DeviceAdminSettings;
@@ -290,6 +291,7 @@ public class SettingsGateway {
             SmartPixels.class.getName(),
             StatusBarSettings.class.getName(),
             VolumeSettings.class.getName(),
+            AmbientDisplaySettings.class.getName(),
             AmbientPlaySettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
     };

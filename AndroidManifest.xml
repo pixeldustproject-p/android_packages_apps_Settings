@@ -3521,6 +3521,18 @@
                 android:value="com.pixeldust.settings.fragments.OmniJawsSettings" />
         </activity>
 
+        <!-- Ambient display activity. -->
+        <activity android:name="Settings$AmbientDisplayActivity"
+                android:label="@string/ambient_display_screen_title"
+                android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.display.AmbientDisplaySettings" />
+        </activity>
+
         <!-- Ambient play activity. -->
         <activity android:name="Settings$AmbientPlayActivity"
                 android:label="@string/ambient_play_cat"
