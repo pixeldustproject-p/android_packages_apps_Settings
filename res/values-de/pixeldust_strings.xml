@@ -128,6 +128,9 @@
   <string name="qstile_default">Standard (Pie)</string>
   <string name="qstile_circle_trim">Kreis einfach umrandet (Pie)</string>
   <string name="qstile_dual_tone_circle">Kreis doppelt umrandet (Pie)</string>
+  <string name="qstile_oreo">Standard (Oreo)</string>
+  <string name="qstile_oreo_circle_trim">Kreis einfach umrandet (Oreo)</string>
+  <string name="qstile_oreo_squircle_trim">Abgerundetes Quadrat (Oreo)</string>
   <string name="qstile_squircle_trim">Abgerundetes Quadrat (Pie)</string>
 
 </resources>

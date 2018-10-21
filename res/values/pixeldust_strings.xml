@@ -175,9 +175,12 @@
 
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
+    <string name="qstile_default">Default (Pie)</string>
+    <string name="qstile_circle_trim">Circle Trim (Pie)</string>
+    <string name="qstile_dual_tone_circle">Dual-Toned Circle Trim (Pie)</string>
+    <string name="qstile_oreo">Default (Oreo)</string>
+    <string name="qstile_oreo_circle_trim">Circle Trim (Oreo)</string>
+    <string name="qstile_oreo_squircle_trim">Squircle Trim (Oreo)</string>
+    <string name="qstile_squircle_trim">Squircle Trim (Pie)</string>
 
 </resources>
