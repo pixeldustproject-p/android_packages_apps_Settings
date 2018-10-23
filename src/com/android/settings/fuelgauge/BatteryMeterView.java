@@ -58,8 +58,8 @@ public class BatteryMeterView extends ImageView {
         mErrorColorFilter = new PorterDuffColorFilter(
                 context.getColor(R.color.battery_icon_color_error), PorterDuff.Mode.SRC_IN);
 
-        int userStyle = Settings.Secure.getInt(mContext.getContentResolver(),
-                Settings.Secure.STATUS_BAR_BATTERY_STYLE, BatteryMeterDrawableBase.BATTERY_STYLE_PORTRAIT);
+        int userStyle = Settings.System.getInt(mContext.getContentResolver(),
+                Settings.System.STATUS_BAR_BATTERY_STYLE, BatteryMeterDrawableBase.BATTERY_STYLE_PORTRAIT);
         mDrawable = new BatteryMeterDrawable(context, frameColor, userStyle);
         mDrawable.setBatteryColorFilter(mAccentColorFilter);
         mDrawable.setWarningColorFilter(
@@ -105,16 +105,12 @@ public class BatteryMeterView extends ImageView {
                     setShowPercent(false);
                     break;
                 case BatteryMeterDrawableBase.BATTERY_STYLE_CIRCLE:
-                case BatteryMeterDrawableBase.BATTERY_STYLE_BIG_CIRCLE:
                     mIntrinsicWidth = mContext.getResources().getDimensionPixelSize(R.dimen.battery_meter_height);
                     mIntrinsicHeight = mContext.getResources().getDimensionPixelSize(R.dimen.battery_meter_height);
-                    showPercentInsideCircle(false);
                     break;
                 case BatteryMeterDrawableBase.BATTERY_STYLE_DOTTED_CIRCLE:
-                case BatteryMeterDrawableBase.BATTERY_STYLE_BIG_DOTTED_CIRCLE:
                     mIntrinsicWidth = mContext.getResources().getDimensionPixelSize(R.dimen.battery_meter_height);
                     mIntrinsicHeight = mContext.getResources().getDimensionPixelSize(R.dimen.battery_meter_height);
-                    showPercentInsideCircle(false);
                     setDashEffect(new float[]{18,10}, 0);
                     break;
             }
