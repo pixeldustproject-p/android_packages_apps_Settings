@@ -122,6 +122,12 @@
     <string name="changelog_summary">See the most recent commits</string>
     <string name="changelog_error">Unable to load changelog</string>
 
+    <!-- Selinux -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
     <!-- Smart Pixels -->
     <string name="smart_pixels_settings_title">Smart Pixels</string>
 

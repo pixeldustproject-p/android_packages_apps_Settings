@@ -109,6 +109,12 @@
   <string name="changelog_summary">Seit dem letzten Update</string>
   <string name="changelog_error">Laden der Änderungshistorie fehlgeschlagen</string>
 
+  <!-- Selinux -->
+  <string name="selinux_status">SELinux-Status</string>
+  <string name="selinux_status_disabled">Deaktiviert</string>
+  <string name="selinux_status_permissive">Moderat</string>
+  <string name="selinux_status_enforcing">Strikt</string>
+
   <!-- Smart Pixels -->
   <string name="smart_pixels_settings_title">Smart Pixels</string>
 
