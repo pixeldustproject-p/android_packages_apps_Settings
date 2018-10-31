@@ -195,4 +195,7 @@
   <string name="fp_swipe_to_dismiss_notifications_title">Benachr. durch seitliches Wischen schließen</string>
   <string name="fp_swipe_to_dismiss_notifications_summary">Nach links oder rechts über den Fingerabdrucksensor wischen, um Benachrichtingen zu schließen.</string>
 
+  <string name="full_gesture_mode_title">Vollständigen Gestenmodus aktivieren</string>
+  <string name="full_gesture_mode_summary">In diesem Modus wird auch die ZURÜCK-Taste deaktiviert. Für ZURÜCK auf der Navigationsleiste nach links wischen -- für LETZTE-APP nach rechts wischen.</string>
+
 </resources>
