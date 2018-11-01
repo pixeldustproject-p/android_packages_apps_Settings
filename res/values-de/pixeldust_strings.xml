@@ -196,6 +196,8 @@
   <string name="fp_swipe_to_dismiss_notifications_summary">Nach links oder rechts über den Fingerabdrucksensor wischen, um Benachrichtingen zu schließen.</string>
 
   <string name="full_gesture_mode_title">Vollständigen Gestenmodus aktivieren</string>
-  <string name="full_gesture_mode_summary">In diesem Modus wird auch die ZURÜCK-Taste deaktiviert. Für ZURÜCK auf der Navigationsleiste nach links wischen -- für LETZTE-APP nach rechts wischen.</string>
+  <string name="full_gesture_mode_summary">In diesem Modus wird auch die ZURÜCK-Taste deaktiviert. Für ZURÜCK auf der Navigationsleiste nach links wischen. Für LETZTE-APP nach rechts wischen und mit nach links Wischen können Apps verschoben werden. Für HOME auf die Home-Taste drücken oder auch auf einen leeren Bereich der Navigationsleiste.</string>
+  <string name="full_gesture_mode_dt2s_title">Zweimal auf Navigationsleiste tippen für Ruhezustand</string>
+  <string name="full_gesture_mode_dt2s_summary">Den leeren Bereich der Navigationsleiste doppelt antippen, um den den Bildschirm auszuschalten.</string>
 
 </resources>
