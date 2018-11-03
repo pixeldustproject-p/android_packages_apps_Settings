@@ -189,5 +189,16 @@
   <string name="ambient_play_switch_bar_on">Ein</string>
   <string name="ambient_play_switch_bar_off">Aus</string>
   <string name="ambient_play_help_text">Wenn Musik im Hintergrund gespielt wird, werden Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
+  <string name="ambient_play_history">Now Playing Historie</string>
+  <string name="ambient_play_loading_data">Daten werden geladen…</string>
+  <string name="ambient_play_history_today">Heute</string>
+  <string name="ambient_play_history_yesterday">Gestern</string>
+  <string name="ambient_play_history_dialog_play">Jetzt</string>
+  <string name="ambient_play_history_dialog_search">Suche im Netz</string>
+  <string name="ambient_play_history_dialog_remove">Entfernen</string>
+  <string name="ambient_play_history_empty">Now Playing Historie ist leer</string>
+  <string name="ambient_play_history_menu_remove_all">Alle entfernen</string>
+  <string name="ambient_play_history_menu_add_to_home">Zum Startbildschirm hinzufügen</string>
+  <string name="ambient_play_history_dialog_remove_all_confirmation">Sind Sie sicher?</string>
 
 </resources>

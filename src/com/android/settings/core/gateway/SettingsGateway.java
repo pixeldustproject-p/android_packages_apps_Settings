@@ -140,6 +140,7 @@ import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.calling.WifiCallingSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
+import com.android.settings.pixeldust.ambient.history.AmbientPlayHistory;
 
 import com.pixeldust.settings.PixelDustSettings;
 import com.pixeldust.settings.fragments.ButtonSettings;
@@ -296,6 +297,7 @@ public class SettingsGateway {
             AmbientPlaySettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
             PieSettings.class.getName(),
+            AmbientPlayHistory.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
