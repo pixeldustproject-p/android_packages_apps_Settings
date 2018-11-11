@@ -130,24 +130,6 @@
   <string name="battery_stats_reset">Statistiken zurücksetzen</string>
   <string name="battery_stats_message">Der Akkuverlauf wird zurückgesetzt</string>
 
-  <!-- Ambient Play -->
-  <string name="ambient_play_cat">Now Playing</string>
-  <string name="ambient_recognition_title">Now Playing aktivieren</string>
-  <string name="ambient_recognition_summary">Musik, die im Hintergrund gespielt wird, wird erkannt und Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
-  <string name="ambient_recognition_lockscreen_title">Now Playing zusätzlich anzeigen</string>
-  <string name="ambient_recognition_lockscreen_summary">Auf dem Sperrbildschirm</string>
-  <string name="ambient_recognition_interval_summary_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf <xliff:g id="number">%d</xliff:g> Sekunden</string>
-  <string name="ambient_recognition_interval_summary_one_minute_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute <xliff:g id="number">%d</xliff:g> Sekunden</string>
-  <string name="ambient_recognition_interval_summary_one_minute">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute</string>
-  <string name="ambient_recognition_interval_summary_two_minutes">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 2 Minuten</string>
-  <string name="ambient_recognition_interval_title">Suchintervall</string>
-  <string name="ambient_recognition_interval_20sec">20 Sekunden</string>
-  <string name="ambient_recognition_interval_40sec">40 Sekunden</string>
-  <string name="ambient_recognition_interval_60sec">1 Minute</string>
-  <string name="ambient_recognition_interval_80sec">1 Minute 20 Sekunden</string>
-  <string name="ambient_recognition_interval_100sec">1 Minute 40 Sekunden</string>
-  <string name="ambient_recognition_interval_120sec">2 Minuten (Standard)</string>
-
   <!-- SystemUI theme -->
   <string name="systemui_theme_black">Schwarz</string>
   <string name="systemui_theme_shishunights">Shishu Nights</string>
