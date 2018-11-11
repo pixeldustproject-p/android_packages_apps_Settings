@@ -83,6 +83,51 @@
         android:background="#FFCC00" />
 
     <Button
+        android:id="@+id/maniaamberAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#f6ca11" />
+
+    <Button
+        android:id="@+id/coldyellowAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#efe3a8" />
+
+    <Button
+        android:id="@+id/newhouseorangeAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#f25555" />
+
+    <Button
+        android:id="@+id/warmthorangeAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#ff6f20" />
+
+    <Button
+        android:id="@+id/burningredAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#f21a48" />
+
+    <Button
         android:id="@+id/candyredAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
@@ -101,76 +146,85 @@
         android:background="#F05361" />
 
     <Button
-        android:id="@+id/extendedgreenAccent"
+        android:id="@+id/hazedpinkAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#21ef8b" />
+        android:background="#c83c64" />
 
     <Button
-        android:id="@+id/paleblueAccent"
+        android:id="@+id/bubblegumpinkAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#A1B6ED" />
+        android:background="#e52c5f" />
 
     <Button
-        android:id="@+id/jadegreenAccent"
+        android:id="@+id/trufilpinkAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#9ABC98" />
+        android:background="#ae2463" />
 
     <Button
-        android:id="@+id/holillusionAccent"
+        android:id="@+id/duskpurpleAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#0ac8ff" />
+        android:background="#b7095a" />
 
     <Button
-        android:id="@+id/stockAccent"
+        android:id="@+id/illusionspurpleAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#009688" />
+        android:background="#a02963" />
 
     <Button
-        android:id="@+id/seasidemintAccent"
+        android:id="@+id/spookedpurpleAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#01c18c" />
+        android:background="#822b6b" />
 
     <Button
-        android:id="@+id/movemintAccent"
+        android:id="@+id/notimppurpleAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#46ff99" />
+        android:background="#8522ff" />
 
     <Button
-        android:id="@+id/diffdaygreenAccent"
+        android:id="@+id/dreamypurpleAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#97f456" />
+        android:background="#7278e5" />
+
+    <Button
+        android:id="@+id/footprintpurpleAccent"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_columnWeight="1"
+        android:gravity="center"
+        android:layout_gravity="fill_horizontal"
+        android:background="#3c5ae0" />
 
     <Button
         android:id="@+id/obfusbleuAccent"
@@ -209,129 +263,75 @@
         android:background="#327ccb" />
 
     <Button
-        android:id="@+id/notimppurpleAccent"
+        android:id="@+id/paleblueAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#8522ff" />
+        android:background="#A1B6ED" />
 
     <Button
-        android:id="@+id/footprintpurpleAccent"
+        android:id="@+id/holillusionAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#3c5ae0" />
+        android:background="#0ac8ff" />
 
     <Button
-        android:id="@+id/duskpurpleAccent"
+        android:id="@+id/stockAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#b7095a" />
+        android:background="#009688" />
 
     <Button
-        android:id="@+id/illusionspurpleAccent"
+        android:id="@+id/seasidemintAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#a02963" />
+        android:background="#01c18c" />
 
     <Button
-        android:id="@+id/dreamypurpleAccent"
+        android:id="@+id/movemintAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#7278e5" />
+        android:background="#46ff99" />
 
     <Button
-        android:id="@+id/spookedpurpleAccent"
+        android:id="@+id/extendedgreenAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#822b6b" />
+        android:background="#21ef8b" />
 
     <Button
-        android:id="@+id/trufilpinkAccent"
+        android:id="@+id/diffdaygreenAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#ae2463" />
+        android:background="#97f456" />
 
     <Button
-        android:id="@+id/bubblegumpinkAccent"
+        android:id="@+id/jadegreenAccent"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#e52c5f" />
-
-    <Button
-        android:id="@+id/hazedpinkAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#c83c64" />
-
-    <Button
-        android:id="@+id/burningredAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#f21a48" />
-
-    <Button
-        android:id="@+id/newhouseorangeAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#f25555" />
-
-    <Button
-        android:id="@+id/warmthorangeAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#ff6f20" />
-
-    <Button
-        android:id="@+id/maniaamberAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#f6ca11" />
-
-    <Button
-        android:id="@+id/coldyellowAccent"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:layout_columnWeight="1"
-        android:gravity="center"
-        android:layout_gravity="fill_horizontal"
-        android:background="#efe3a8" />
+        android:background="#9ABC98" />
 
 </LinearLayout>
