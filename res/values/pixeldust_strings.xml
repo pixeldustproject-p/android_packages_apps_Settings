@@ -201,6 +201,7 @@
     <string name="full_gesture_mode_dt2s_summary">Tap on an empty navbar space but not the home button to switch the screen off.</string>
 
     <!-- Ambient Play -->
+    <string name="ambient_play_cat">Now Playing</string>
     <string name="ambient_play_title" translatable="false">@*android:string/ambient_recognition_notification</string>
     <string name="ambient_play_recognition_information" translatable="false">@*android:string/ambient_recognition_information</string>
     <string name="ambient_play_summary">Show nearby songs</string>

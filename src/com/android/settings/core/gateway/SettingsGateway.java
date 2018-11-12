@@ -18,7 +18,7 @@ package com.android.settings.core.gateway;
 
 import com.android.settings.applications.ExpandedDesktopPreferenceFragment;
 import com.android.settings.display.AmbientDisplaySettings;
-import com.android.settings.AmbientPlaySettings;
+import com.android.settings.pixeldust.ambient.AmbientPlaySettings;
 import com.android.settings.DateTimeSettings;
 import com.android.settings.DeviceAdminSettings;
 import com.android.settings.DisplaySettings;
