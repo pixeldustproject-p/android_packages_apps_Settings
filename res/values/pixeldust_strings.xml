@@ -180,8 +180,15 @@
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">QS tile style</string>
     <string name="qstile_default">Default (Pie)</string>
+    <string name="qstile_circle_gradient">Circle Gradient (Pie)</string>
     <string name="qstile_circle_trim">Circle Trim (Pie)</string>
+    <string name="qstile_dottedcircle">Dotted Circle (Pie)</string>
+    <string name="qstile_circle_dualtone">Dual-Toned Circle (Pie)</string>
     <string name="qstile_dual_tone_circle">Dual-Toned Circle Trim (Pie)</string>
+    <string name="qstile_mountain">Mountain (Pie)</string>
+    <string name="qstile_ninja">Ninja (Pie)</string>
+    <string name="qstile_pokesign">Pokesign (Pie)</string>
+    <string name="qstile_wavey">Wavey (Pie)</string>
     <string name="qstile_oreo">Default (Oreo)</string>
     <string name="qstile_oreo_circle_trim">Circle Trim (Oreo)</string>
     <string name="qstile_oreo_squircle_trim">Squircle Trim (Oreo)</string>

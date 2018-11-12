@@ -162,8 +162,15 @@
   <!-- QS tile styles -->
   <string name="qs_tile_style_title">Kachel-Stil in Schnelleinstellungen</string>
   <string name="qstile_default">Standard (Pie)</string>
+  <string name="qstile_circle_gradient">Kreis mit Farbverlauf (Pie)</string>
   <string name="qstile_circle_trim">Kreis einfach umrandet (Pie)</string>
-  <string name="qstile_dual_tone_circle">Kreis doppelt umrandet (Pie)</string>
+  <string name="qstile_dottedcircle">Kreis gepunktet (Pie)</string>
+  <string name="qstile_circle_dualtone">Kreis zweifarbig (Pie)</string>
+  <string name="qstile_dual_tone_circle">Kreis zweifarbig umrandet (Pie)</string>
+  <string name="qstile_mountain">Kreis mit Gebirgsmotiv (Pie)</string>
+  <string name="qstile_ninja">Ninjastern (Pie)</string>
+  <string name="qstile_pokesign">Poke-Zeichen (Pie)</string>
+  <string name="qstile_wavey">Kreis mit wellenförmigem Farbverlauf (Pie)</string>
   <string name="qstile_oreo">Standard (Oreo)</string>
   <string name="qstile_oreo_circle_trim">Kreis einfach umrandet (Oreo)</string>
   <string name="qstile_oreo_squircle_trim">Abgerundetes Quadrat (Oreo)</string>
