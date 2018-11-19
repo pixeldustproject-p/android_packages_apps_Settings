@@ -173,9 +173,6 @@
   <string name="expanded_desktop_style_description">Standardaussehen des erweiterten Desktopmodus wählen</string>
   <string name="expanded_desktop_title">Optionen für den erweiterten Desktopmodus</string>
 
-  <!-- Weather parts -->
-  <string name="weather_title">Wetter</string>
-
   <!-- Ambient display battery percentage --> 
   <string name="ambient_battery_percent_title">Akkuladestand am unteren Rand anzeigen</string> 
   <string name="ambient_battery_percent_summary">Akkuladestand als Prozentwert auf dem Inaktivitätsdisplay anzeigen</string>
