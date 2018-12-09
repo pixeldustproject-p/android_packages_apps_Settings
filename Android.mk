@@ -20,7 +20,6 @@ LOCAL_USE_AAPT2 := true
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 LOCAL_SRC_FILES += $(call all-java-files-under, ../PixelDustSettings/src)
-LOCAL_SRC_FILES += $(call all-java-files-under, ../SmartNavSettings/src)
 
 LOCAL_FULL_LIBS_MANIFEST_FILES += $(LOCAL_PATH)/AndroidManifest-SmartNav.xml
 
@@ -51,8 +50,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     settings-logtags \
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    packages/apps/PixelDustSettings/res \
-    packages/apps/SmartNavSettings/res
+    packages/apps/PixelDustSettings/res
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
