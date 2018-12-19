@@ -101,16 +101,16 @@
         <item>@string/qstile_circle_gradient</item>
         <item>@string/qstile_circle_trim</item>
         <item>@string/qstile_dottedcircle</item>
-        <item>@string/qstile_circle_dualtone</item>
         <item>@string/qstile_dual_tone_circle</item>
+        <item>@string/qstile_circle_dualtone</item>
         <item>@string/qstile_mountain</item>
         <item>@string/qstile_ninja</item>
         <item>@string/qstile_pokesign</item>
         <item>@string/qstile_wavey</item>
+        <item>@string/qstile_squircle_trim</item>
         <item>@string/qstile_oreo</item>
         <item>@string/qstile_oreo_circle_trim</item>
         <item>@string/qstile_oreo_squircle_trim</item>
-        <item>@string/qstile_squircle_trim</item>
     </string-array>
 
     <string-array name="qs_selector_values" translatable="false">
