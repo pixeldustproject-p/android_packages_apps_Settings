@@ -224,6 +224,17 @@
   <string name="ambient_recognition_interval_80sec">1 Minute 20 Sekunden</string>
   <string name="ambient_recognition_interval_100sec">1 Minute 40 Sekunden</string>
   <string name="ambient_recognition_interval_120sec">2 Minuten (Standard)</string>
+  <string name="ambient_play_saving_options_title">Einschränkungen</string>
+  <string name="ambient_play_saving_options_summary">Einstellungen um den Akku- und Netzwerkbedarf einzuschränken</string>
+  <string name="ambient_play_saving_options_low_battery_title">Niedriger Akkustand</string>
+  <string name="ambient_play_saving_options_low_battery_summary">Bei niedrigem Akkustand die Musikerkennung ausschalten</string>
+  <string name="ambient_play_saving_options_mobile_data_title">Mobile Datennutzung</string>
+  <string name="ambient_play_saving_options_mobile_data_summary">Bei mobiler Datenverbindung die Musikerkennung ausschalten</string>
+  <string name="ambient_play_saving_options_quiet_period_title">Ruhezeit</string>
+  <string name="ambient_play_saving_options_quiet_period_enable_title">Ruhezeitraum festlegen</string>
+  <string name="ambient_play_saving_options_quiet_period_enable_summary">Zeitraum festlegen während dem die Musikerkennung pausiert sein soll</string>
+  <string name="ambient_play_saving_options_quiet_period_start_time_title">Startzeit</string>
+  <string name="ambient_play_saving_options_quiet_period_end_time_title">Endzeit</string>
 
   <!-- Device Introduction -->
   <string name="first_time_introduction_header">Willkommen bei</string>
