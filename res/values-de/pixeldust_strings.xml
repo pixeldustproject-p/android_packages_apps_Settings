@@ -196,7 +196,9 @@
   <string name="ambient_play_cat">Now Playing</string>
   <string name="ambient_play_summary">Now Playing aktivieren</string>
   <string name="ambient_play_lockscreen_title">Now Playing auf dem Sperrbildschirm anzeigen</string>
+  <string name="ambient_play_lockscreen_summary">Auf dem Sperrbildschirm anzeigen, wenn ein Titel erkannt wird</string>
   <string name="ambient_play_notifications_title">Benachrichtigungen</string>
+  <string name="ambient_play_notifications_summary">Benachrichtigung anzeigen, wenn ein Titel erkannt wird</string>
   <string name="ambient_play_switch_bar_on">Ein</string>
   <string name="ambient_play_switch_bar_off">Aus</string>
   <string name="ambient_play_help_text">Wenn Musik im Hintergrund gespielt wird, werden Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
