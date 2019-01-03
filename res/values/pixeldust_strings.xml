@@ -233,11 +233,12 @@
     <string name="ambient_play_history_menu_remove_all">Remove all</string>
     <string name="ambient_play_history_menu_add_to_home">Add to Home Screen</string>
     <string name="ambient_play_history_dialog_remove_all_confirmation">Are you sure?</string>
-    <string name="ambient_recognition_interval_summary_seconds">Interval for scanning of new songs is set to <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="ambient_recognition_interval_summary_one_minute_seconds">Interval for scanning of new songs is set to 1 minute and <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="ambient_recognition_interval_summary_one_minute">Interval for scanning of new songs is set to 1 minute</string>
-    <string name="ambient_recognition_interval_summary_two_minutes">Interval for scanning of new songs is set to 2 minutes</string>
+    <string name="ambient_recognition_interval_summary_seconds">Interval for scanning new songs is set to <xliff:g id="number">%d</xliff:g> seconds</string>
+    <string name="ambient_recognition_interval_summary_one_minute_seconds">Interval for scanning new songs is set to 1 minute and <xliff:g id="number">%d</xliff:g> seconds</string>
+    <string name="ambient_recognition_interval_summary_one_minute">Interval for scanning new songs is set to 1 minute</string>
+    <string name="ambient_recognition_interval_summary_two_minutes">Interval for scanning new songs is set to 2 minutes</string>
     <string name="ambient_recognition_interval_title">Scan interval</string>
+    <string name="ambient_recognition_interval_summary">Allows to adjust the interval for scanning new songs. Caution: The lower the interval, the higher the battery and network usage.</string>
     <string name="ambient_recognition_interval_20sec">20 seconds</string>
     <string name="ambient_recognition_interval_40sec">40 seconds</string>
     <string name="ambient_recognition_interval_60sec">1 minute</string>

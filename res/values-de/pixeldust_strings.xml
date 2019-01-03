@@ -218,6 +218,7 @@
   <string name="ambient_recognition_interval_summary_one_minute">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute</string>
   <string name="ambient_recognition_interval_summary_two_minutes">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 2 Minuten</string>
   <string name="ambient_recognition_interval_title">Suchintervall</string>
+  <string name="ambient_recognition_interval_summary">Intervall für das Erkennen neuer Titel anpassen. Achtung: Je niedriger der Intervall, desto höher der Akku- und Datenverbrauch.</string>
   <string name="ambient_recognition_interval_20sec">20 Sekunden</string>
   <string name="ambient_recognition_interval_40sec">40 Sekunden</string>
   <string name="ambient_recognition_interval_60sec">1 Minute</string>
