@@ -138,7 +138,6 @@
 
   <!-- SystemUI theme -->
   <string name="systemui_theme_black">Schwarz</string>
-  <string name="systemui_theme_shishunights">Shishu Nights</string>
   <string name="systemui_theme_chocolate">Schokolade</string>
   <string name="accent_picker_dialog_title">Akzentfarbe wählen</string>
   <string name="theme_accent_picker_title">Akzentfarbe</string>
