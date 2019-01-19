@@ -241,4 +241,8 @@
     <string name="ambient_display_category">Ambient display</string>
     <string name="custom_ambient_display_summary">New notifications</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Battery temperature</string>
+    <string name="battery_temp_summary">Tap to switch scale</string>
+
 </resources>

@@ -221,4 +221,8 @@
   <string name="ambient_display_category">Inaktivitätsdisplay</string>
   <string name="custom_ambient_display_summary">Neue Benachrichtigungen</string>
 
+  <!-- Battery temp -->
+  <string name="battery_temp_title">Akku-Temperatur</string>
+  <string name="battery_temp_summary">Tippen, um Maßeinheit zu wechseln</string>
+
 </resources>
