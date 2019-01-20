@@ -167,7 +167,6 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
     public static class AmbientDisplayActivity extends SettingsActivity { /* empty */ }
-    public static class AmbientPlayActivity extends SettingsActivity { /* empty */ }
     public static class ExpandedDesktopActivity extends SettingsActivity { /* empty */ }
     public static class PixelDustSettingsActivity extends SettingsActivity { /* empty */ }
     public static class ButtonSettingsActivity extends SettingsActivity { /* empty */ }
@@ -182,9 +181,6 @@ public class Settings extends SettingsActivity {
     public static class StatusBarSettingsActivity extends SettingsActivity { /* empty */ }
     public static class VolumeSettingsActivity extends SettingsActivity { /* empty */ }
     public static class PieControlSettingsActivity extends SettingsActivity { /* empty */ }
-
-    // Ambient play
-    public static class AmbientPlayHistoryActivity extends SettingsActivity { /* empty */ }
 
     public static class NavigationSettingsActivity extends SettingsActivity {}
     public static class SmartbarSettingsActivity extends SettingsActivity {}

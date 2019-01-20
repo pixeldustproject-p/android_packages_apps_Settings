@@ -191,51 +191,6 @@
   <string name="full_gesture_mode_dt2s_title">Zweimal auf Navigationsleiste tippen für Ruhezustand</string>
   <string name="full_gesture_mode_dt2s_summary">Den leeren Bereich der Navigationsleiste doppelt antippen, um den den Bildschirm auszuschalten.</string>
 
-  <!-- Ambient Play -->
-  <string name="ambient_play_cat">Now Playing</string>
-  <string name="ambient_play_summary">Now Playing aktivieren</string>
-  <string name="ambient_play_lockscreen_title">Now Playing auf dem Sperrbildschirm anzeigen</string>
-  <string name="ambient_play_lockscreen_summary">Auf dem Sperrbildschirm anzeigen, wenn ein Titel erkannt wird</string>
-  <string name="ambient_play_notifications_title">Benachrichtigungen</string>
-  <string name="ambient_play_notifications_summary">Benachrichtigung anzeigen, wenn ein Titel erkannt wird</string>
-  <string name="ambient_play_switch_bar_on">Ein</string>
-  <string name="ambient_play_switch_bar_off">Aus</string>
-  <string name="ambient_play_help_text">Wenn Musik im Hintergrund gespielt wird, werden Titel sowie Künstler auf dem Inaktivitätsdisplay angezeigt. Hierdurch erhöht sich die Akku- und Datennutzung.</string>
-  <string name="ambient_play_history">Now Playing Historie</string>
-  <string name="ambient_play_loading_data">Daten werden geladen…</string>
-  <string name="ambient_play_history_today">Heute</string>
-  <string name="ambient_play_history_yesterday">Gestern</string>
-  <string name="ambient_play_history_dialog_play">Jetzt</string>
-  <string name="ambient_play_history_dialog_search">Suche im Netz</string>
-  <string name="ambient_play_history_dialog_remove">Entfernen</string>
-  <string name="ambient_play_history_empty">Now Playing Historie ist leer</string>
-  <string name="ambient_play_history_menu_remove_all">Alle entfernen</string>
-  <string name="ambient_play_history_menu_add_to_home">Zum Startbildschirm hinzufügen</string>
-  <string name="ambient_play_history_dialog_remove_all_confirmation">Sind Sie sicher?</string>
-  <string name="ambient_recognition_interval_summary_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf <xliff:g id="number">%d</xliff:g> Sekunden</string>
-  <string name="ambient_recognition_interval_summary_one_minute_seconds">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute <xliff:g id="number">%d</xliff:g> Sekunden</string>
-  <string name="ambient_recognition_interval_summary_one_minute">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 1 Minute</string>
-  <string name="ambient_recognition_interval_summary_two_minutes">Das Intervall zum Erkennen neuer Musiktitel ist eingestellt auf 2 Minuten</string>
-  <string name="ambient_recognition_interval_title">Suchintervall</string>
-  <string name="ambient_recognition_interval_summary">Intervall für das Erkennen neuer Titel anpassen. Achtung: Je niedriger der Intervall, desto höher der Akku- und Datenverbrauch.</string>
-  <string name="ambient_recognition_interval_20sec">20 Sekunden</string>
-  <string name="ambient_recognition_interval_40sec">40 Sekunden</string>
-  <string name="ambient_recognition_interval_60sec">1 Minute</string>
-  <string name="ambient_recognition_interval_80sec">1 Minute 20 Sekunden</string>
-  <string name="ambient_recognition_interval_100sec">1 Minute 40 Sekunden</string>
-  <string name="ambient_recognition_interval_120sec">2 Minuten (Standard)</string>
-  <string name="ambient_play_saving_options_title">Einschränkungen</string>
-  <string name="ambient_play_saving_options_summary">Einstellungen um den Akku- und Netzwerkbedarf einzuschränken</string>
-  <string name="ambient_play_saving_options_low_battery_title">Niedriger Akkustand</string>
-  <string name="ambient_play_saving_options_low_battery_summary">Bei niedrigem Akkustand die Musikerkennung ausschalten</string>
-  <string name="ambient_play_saving_options_mobile_data_title">Mobile Datennutzung</string>
-  <string name="ambient_play_saving_options_mobile_data_summary">Bei mobiler Datenverbindung die Musikerkennung ausschalten</string>
-  <string name="ambient_play_saving_options_quiet_period_title">Ruhezeit</string>
-  <string name="ambient_play_saving_options_quiet_period_enable_title">Ruhezeitraum festlegen</string>
-  <string name="ambient_play_saving_options_quiet_period_enable_summary">Zeitraum festlegen während dem die Musikerkennung pausiert sein soll</string>
-  <string name="ambient_play_saving_options_quiet_period_start_time_title">Startzeit</string>
-  <string name="ambient_play_saving_options_quiet_period_end_time_title">Endzeit</string>
-
   <!-- Device Introduction -->
   <string name="first_time_introduction_header">Willkommen bei</string>
   <string name="first_time_introduction_message">Erlebe Android wie nie zuvor: hervorragende Akkulaufzeiten, flüssige Bedienoberfläche und nützliche Zusatzfeatures. In den Pixel Dust Einstellungen kannst du die Statusleiste, die Schnelleinstellungen, die Navigationsleiste, den Sperrbildschirm, den Anwendungsverlauf, die Benachrichtigungen und sogar die Animationen anpassen. Zum Einstieg kannst du z.B. folgendes tun:\n\n- Aktiviere \"Auf Startbildschirmtaste nach oben wischen\"\n- Den grafischen \"Pulse\"-Audio-Equalizer für die Navigationsleiste einschalten\n- \"Now Playing\" ausprobieren\n- Schau dir die in der ROM enthaltenen Gerätedesigns an. Schalte zwischen Hell, Dunkel, Schwarz, Shishu Nights und Schokolade hin und her, und wähle aus einer riesigen Auswahl an Akzentfarben aus.</string>

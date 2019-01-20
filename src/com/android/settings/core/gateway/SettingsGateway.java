@@ -18,7 +18,6 @@ package com.android.settings.core.gateway;
 
 import com.android.settings.applications.ExpandedDesktopPreferenceFragment;
 import com.android.settings.display.AmbientDisplaySettings;
-import com.android.settings.pixeldust.ambient.AmbientPlaySettings;
 import com.android.settings.DateTimeSettings;
 import com.android.settings.DeviceAdminSettings;
 import com.android.settings.DisplaySettings;
@@ -144,7 +143,6 @@ import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.calling.WifiCallingSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
-import com.android.settings.pixeldust.ambient.history.AmbientPlayHistory;
 
 import com.pixeldust.settings.PixelDustSettings;
 import com.pixeldust.settings.fragments.ButtonSettings;
@@ -298,10 +296,8 @@ public class SettingsGateway {
             StatusBarSettings.class.getName(),
             VolumeSettings.class.getName(),
             AmbientDisplaySettings.class.getName(),
-            AmbientPlaySettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
             PieSettings.class.getName(),
-            AmbientPlayHistory.class.getName(),
             NavigationSettingsActivity.class.getName(),
             SmartbarSettingsActivity.class.getName(),
             FlingSettingsActivity.class.getName(),
