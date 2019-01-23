@@ -137,6 +137,7 @@
   <string name="battery_stats_message">Der Akkuverlauf wird zurückgesetzt</string>
 
   <!-- SystemUI theme -->
+  <string name="theme_category_title">Gerätedesign</string>
   <string name="systemui_theme_black">Schwarz</string>
   <string name="systemui_theme_chocolate">Schokolade</string>
   <string name="accent_picker_dialog_title">Akzentfarbe wählen</string>
