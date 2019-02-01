@@ -244,7 +244,6 @@
 
     <!-- Battery temp -->
     <string name="battery_temp_title">Battery temperature</string>
-    <string name="battery_temp_summary">Tap to switch scale</string>
 
     <!-- Titles for sim color for multi-sim -->
     <string name="color_Amber_700">Amber</string>
