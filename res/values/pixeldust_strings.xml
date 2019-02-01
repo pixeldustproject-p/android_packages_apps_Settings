@@ -182,6 +182,7 @@
     <string name="qstile_oreo_circle_trim">Circle Trim (Oreo)</string>
     <string name="qstile_oreo_squircle_trim">Squircle Trim (Oreo)</string>
     <string name="qstile_squircle_trim">Squircle Trim (Pie)</string>
+    <string name="qstile_cookie">Cookie (Pie)</string>
 
     <!-- Expanded desktop -->
     <string name="expanded_desktop_pref_title">Expanded desktop</string>
