@@ -110,6 +110,7 @@ import com.pixeldust.settings.fragments.RecentsSettings;
 import com.pixeldust.settings.fragments.SmartPixels;
 import com.pixeldust.settings.fragments.StatusBarSettings;
 import com.pixeldust.settings.fragments.VolumeSettings;
+import com.pixeldust.settings.fragments.ActiveEdge;
 
 import java.util.Collection;
 import java.util.HashSet;
@@ -216,6 +217,7 @@ public class SearchIndexableResourcesImpl implements SearchIndexableResources {
         addIndex(SmartPixels.class);
         addIndex(StatusBarSettings.class);
         addIndex(VolumeSettings.class);
+        addIndex(ActiveEdge.class);
     }
 
     @Override
